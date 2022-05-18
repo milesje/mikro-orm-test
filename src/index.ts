@@ -33,7 +33,7 @@ const myFunc = async () => {
     model: "F-150",
     vinNumber: "TX1233563566",
     vehicleType: {
-      id: 'f3c455c7-d600-4694-bfe9-1d592a31bc92',
+      id: '02441207-f292-46b8-8c77-beb415ddd46a',
       description: 'Light Truck',
       type: 'PU'
     }
